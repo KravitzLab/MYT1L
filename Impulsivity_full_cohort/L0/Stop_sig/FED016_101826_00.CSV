@@ -1,5 +1,0 @@
-MM:DD:YYYY hh:mm:ss,Library_Version,Session_type,Device_Number,Battery_Voltage,Motor_Turns,FR,Event,Active_Poke,Left_Poke_Count,Right_Poke_Count,Pellet_Count,Block_Pellet_Count,Retrieval_Time,InterPelletInterval,Poke_Time
-10/18/2026 13:30:10,1.17.3,StopSig,16,4.13,nan,1,>Left_Regular_trial,Left,1,0,0,5285,nan,nan,nan
-10/18/2026 13:30:11,1.17.3,StopSig,16,4.12,nan,1,Right_Regular_(correct),Left,1,1,0,6146,nan,nan,nan
-10/18/2026 13:30:11,1.17.3,StopSig,16,4.12,nan,1,RightDuringDispense,Left,1,2,0,6146,nan,nan,0.04
-10/18/2026 13:30:16,1.17.3,StopSig,16,4.12,3,1,Pellet,Left,1,2,1,6146,0.61,nan,nan
